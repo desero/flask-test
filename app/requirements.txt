@@ -2,3 +2,5 @@ flask
 mqtt
 socketio
 eventlet
+flask_mqtt
+flask_socketio
